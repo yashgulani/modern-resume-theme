@@ -127,7 +127,7 @@ footer_show_references: false
 
 # Build settings
 # theme: modern-resume-theme
-remote_theme: sproogen/yashgulani
+remote_theme: sproogen/modern-resume-theme
 
 sass:
   sass_dir: _sass
